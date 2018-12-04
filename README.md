@@ -4,6 +4,8 @@ This repository contains the Programming for Data Analysis Project(Nov/Dec 2018)
 
 The primary document is the Jupyter Notebook "Programming4DA_Project.ipynb".
 
-All references and sources used to support the code creation are documented within the ipynb file.  
+To run this document you must have installed software to run python code (https://www.python.org/), for example the Anaconda package (https://www.anaconda.com/).
 
-NOTE: much research and code was prepared while I spent significant time travelling for work this month and was added to the Jupyter Notebook over a small numebr of days while I was home and had access to the computer running Anaconda/Python etc. The activity tracker may not look very impresive in git hub but activities were happening offline
+By running each cell in succession, it will generate a dataframe of randomly generated numbers that are somewhat reflective of real life real estate sales data. 
+
+All references and sources used to support the code creation are documented within the ipynb file. No other datasets are required.   
